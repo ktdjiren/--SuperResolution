@@ -14,7 +14,7 @@ Dataset sample: ![Dataset Sample](https://github.com/ktdjiren/--SuperResolution/
 ### Steps to Run the Code
  Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/--SuperResolution.git
+   git clone https://github.com/ktdjiren/--SuperResolution.git
    ```
 
 ---

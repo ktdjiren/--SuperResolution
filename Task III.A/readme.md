@@ -27,6 +27,9 @@ Here's how each model stacked up based on key performance metrics:
 | **Residual Channel Attention Network (RCAN)** | 41.77 | 0.9681      | 0.005295      |
 | **Diffusion Model**                 | 41.78976270            | 0.97712056      | 0.00006671      |
 
+**Example Output Images:**
+- **RCAN Output:** ![RCAN Output](https://raw.githubusercontent.com/ktdjiren/--SuperResolution/main/images/result_RCAN_SR.png)
+
 ---
 ## ⚡ How to Run the Code
 Clone this repository:
@@ -47,4 +50,3 @@ Clone this repository:
 For queries, suggestions, or collaborations, feel free to reach out!  
 📧 Email: [rawatamanamanaman1234@gmail.com]  
 🔗 GitHub: [https://github.com/ktdjiren]
-

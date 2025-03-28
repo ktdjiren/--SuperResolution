@@ -8,8 +8,7 @@ The dataset consists of simulated strong lensing images at multiple resolutions:
 - **High-Resolution (HR) images**
 - **Low-Resolution (LR) images**
 
-Dataset sample: ![Dataset Sample](Task III.A/sample_images.png)
-
+Dataset sample: ![Dataset Sample]https://raw.githubusercontent.com/ktdjiren/--SuperResolution/main/Task%20III.A/sample_images.png
 ---
 ## Implemented Models
 

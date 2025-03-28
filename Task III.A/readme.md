@@ -28,7 +28,7 @@ Here's how each model stacked up based on key performance metrics:
 | **Diffusion Model**                 | 41.78976270            | 0.97712056      | 0.00006671      |
 
 **Example Output Images:**
-- **RCAN Output:** ![RCAN Output](https://raw.githubusercontent.com/ktdjiren/--SuperResolution/main/images/result_RCAN_SR.png)
+- **RCAN Output:** ![RCAN Output](https://github.com/ktdjiren/--SuperResolution/blob/main/Task%20III.A/result_RCAN_SR.png)
 
 ---
 ## ⚡ How to Run the Code
@@ -50,3 +50,4 @@ Clone this repository:
 For queries, suggestions, or collaborations, feel free to reach out!  
 📧 Email: [rawatamanamanaman1234@gmail.com]  
 🔗 GitHub: [https://github.com/ktdjiren]
+

@@ -16,7 +16,6 @@ To tackle this problem, I trained and evaluated **three** different deep learnin
 1. **Super-Resolution CNN (SRCNN)** – A pioneering deep learning model for super-resolution.
 2. **Residual Channel Attention Network (RCAN)** – Uses residual learning & attention mechanisms to enhance details.
 3. **Diffusion Model** – A generative model that iteratively refines images for ultra-sharp quality.
-forward_diffusion_process: ![Dataset Sample](https://github.com/ktdjiren/--SuperResolution/blob/main/Task%20III.B/forward_diffusion_process.png)
 ---
 ## 📊 Model Performance Comparison
 Here's how each model stacked up based on key performance metrics:
@@ -27,9 +26,8 @@ Here's how each model stacked up based on key performance metrics:
 | **Residual Channel Attention Network (RCAN)** | 41.77 | 0.9681      | 0.005295      |
 | **Diffusion Model**                 | 41.78976270            | 0.97712056      | 0.00006671      |
 
-** Output Images:**
- ![ Output](https://github.com/ktdjiren/--SuperResolution/blob/main/Task%20III.B/Screenshot%202025-03-28%20030317.png)
-
+Output Images:
+  ![ Output](https://github.com/ktdjiren/--SuperResolution/blob/main/Task%20III.A/result_RCAN_SR.png)
 ---
 ## ⚡ How to Run the Code
 Clone this repository:
@@ -43,7 +41,12 @@ Clone this repository:
 - **RCAN:** Delivers sharper images with its attention-based architecture.
 - **Diffusion Model:** Achieves stunning results but is computationally intensive.
 
-👉 **[Insert insights on which model performed best and why]**
+👉**Insights & Conclusion**  
+- **SRCNN** achieved the highest **PSNR (42.11 dB)** but slightly lower **SSIM (0.9730)**, indicating good pixel-wise accuracy but fewer fine details.  
+- **RCAN** used attention mechanisms for sharper images but had slightly lower metrics than SRCNN.  
+- **Diffusion Model** had the highest **SSIM (0.9771)** and lowest **MSE**, producing the most visually accurate images but at a higher computational cost.  
+
+👉 **Diffusion Model** offers the best perceptual quality, while **SRCNN** is more efficient with strong numerical accuracy.
 
 ---
 ## 📬 Contact

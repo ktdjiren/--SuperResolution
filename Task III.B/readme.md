@@ -30,7 +30,7 @@ Below is a comparison between the basic **RCNN** model and my **Custom Diffusion
 | Residual Convolutional Neural Network (RCNN) | 26.02  | 0.5905 | 0.002924 |
 | Custom Diffusion Autoencoder Model   | 28.75791976  | 0.68899942 | 0.00190619 |
 
-output smaple: ![Dataset Sample](https://github.com/ktdjiren/--SuperResolution/blob/main/Task%20III.B/Screenshot%202025-03-28%20030317.png)
+output sample: ![Dataset Sample](https://github.com/ktdjiren/--SuperResolution/blob/main/Task%20III.B/Screenshot%202025-03-28%20030317.png)
 
 ---
 

@@ -16,7 +16,7 @@ To tackle this problem, I trained and evaluated **three** different deep learnin
 1. **Super-Resolution CNN (SRCNN)** – A pioneering deep learning model for super-resolution.
 2. **Residual Channel Attention Network (RCAN)** – Uses residual learning & attention mechanisms to enhance details.
 3. **Diffusion Model** – A generative model that iteratively refines images for ultra-sharp quality.
-
+forward_diffusion_process: ![Dataset Sample](https://github.com/ktdjiren/--SuperResolution/blob/main/Task%20III.B/forward_diffusion_process.png)
 ---
 ## 📊 Model Performance Comparison
 Here's how each model stacked up based on key performance metrics:
@@ -27,8 +27,8 @@ Here's how each model stacked up based on key performance metrics:
 | **Residual Channel Attention Network (RCAN)** | 41.77 | 0.9681      | 0.005295      |
 | **Diffusion Model**                 | 41.78976270            | 0.97712056      | 0.00006671      |
 
-**Example Output Images:**
-- **RCAN Output:** ![RCAN Output](https://github.com/ktdjiren/--SuperResolution/blob/main/Task%20III.A/result_RCAN_SR.png)
+** Output Images:**
+ ![ Output](https://github.com/ktdjiren/--SuperResolution/blob/main/Task%20III.B/Screenshot%202025-03-28%20030317.png)
 
 ---
 ## ⚡ How to Run the Code
